@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adil Jaseem</h1>
 <h3 align="center">A web application developer</h3>
-<p><img align="center" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter.jpg" alt="jaseem kalappatt" height="350" width="100%" /></p>
+<p><img align="center" src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter.jpg " alt="jaseem kalappatt" height="350" width="100%" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaseem1999" alt="jaseem1999" /></a> </p>
 
